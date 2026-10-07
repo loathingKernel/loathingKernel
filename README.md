@@ -1,5 +1,4 @@
-## Hi there 👋
-
+![Header](./images/banner.png)
 <!--
 **loathingKernel/loathingKernel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
